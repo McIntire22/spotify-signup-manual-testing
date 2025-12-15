@@ -86,3 +86,8 @@ This observation is documented as a **quality improvement**, not a functional de
 - Usability risks can exist even when functionality behaves as designed  
 
 ---
+## 📌 Author
+**Jordyn McIntire**  
+Entry-Level QA Engineer  
+GitHub: https://github.com/YOUR_USERNAME
+
