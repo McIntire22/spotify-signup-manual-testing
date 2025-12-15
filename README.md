@@ -89,5 +89,5 @@ This observation is documented as a **quality improvement**, not a functional de
 ## 📌 Author
 **Jordyn McIntire**  
 Entry-Level QA Engineer  
-GitHub: https://github.com/YOUR_USERNAME
+GitHub: https://github.com/McIntire22
 
