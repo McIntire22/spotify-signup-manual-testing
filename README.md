@@ -54,7 +54,8 @@ Testing was performed from a **quality assurance perspective**, emphasizing both
 ## 📄 Test Artifacts
 The complete test documentation is provided in the PDF below:
 
-**Spotify_Signup_Testing.pdf**
+**- [Spotify_Signup_Testing.pdf](./Spotify_Signup_Testing.pdf)
+**
 
 This document includes:
 - Manual test cases  
